@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "866760128033",
+    "firebase_url": "https://flash-chat-23491.firebaseio.com",
+    "project_id": "flash-chat-23491",
+    "storage_bucket": "flash-chat-23491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866760128033:android:7d4917e2c99ec637",
+        "android_client_info": {
+          "package_name": "com.omarhoumz.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866760128033-kgfk5a7bar2b4r1afm50ji26irl4cg7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn92vZ22kzRWgkhQQQMSv2HTDLybCwUVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866760128033-kgfk5a7bar2b4r1afm50ji26irl4cg7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
